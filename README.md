@@ -25,6 +25,16 @@ Jump = Space Bar
 Switch Gun = 1,2
 
 **Code**
+- The Assets folder contains all the game assets and resources used in the Unity project such as scripts, textures, models, audio files, prefabs, scenes and shaders.
+- The Project Settings folder contains various configuration files that define the behavior and settings of your project
+- he Packages folder is where Unity stores the packages that the project relies on. These packages can include built-in Unity packages, third-party packages or custom packages.
+- _TerrainAutoUpgrade: The _TerrainAutoUpgrade folder contains terrain layers and environmental assets used specifically to create and enhance the forest environment in Opp Warfare.
+- Enemy-AI: The Enemy-AI folder contains scripts that control enemy behavior, including navigation using NavMesh, attack delays and running mechanics for the enemies in Opp Warfare.
+- -Flooded_Grounds: The Flooded_Grounds folder contains environmental assets specifically designed for the flooded zone in Opp Warfare.
+- -GreenForest : The GreenForest folder contains all the assets for the forest environment, including bushes, materials, skyboxes, and textures used in Opp Warfare.
+- House: The House folder contains all models and textures for buildings and structures used in Opp Warfare.
+- Lana Studio: The Lana Studio folder contains all the circular particles and various game particles used in Opp Warfare.
+- Scene: The Scene folder contains all gameplay scenes, such as the main menu, flooded zone, and jungle mode, for Opp Warfare.
 
 
 **Game References:**
